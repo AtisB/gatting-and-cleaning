@@ -1,2 +1,2 @@
-gatting-and-cleaning
+getting-and-cleaning
 ====================
